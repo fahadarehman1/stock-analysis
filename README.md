@@ -36,7 +36,7 @@ We can clearly see the picture above that refactoring did work and enhanced the 
 
 Lets compare the stock performance from 2017 to 2018:
 
-![2017 Stock Performance](/Resources/017 Stock Performance.PNG)                                     ![2018 Stock Performance](/Resources/2018 Stock Performance.PNG) 
+![2017 Stock Performance](/Resources/2017_Stock_Performance.PNG)                                     ![2018 Stock Performance](/Resources/2018_Stock_Performance.PNG) 
 
 The first obvious point is that stocks overall did poor in 2018 as compare to 2017. The stock DQ which was up roughly 200% in 2017, dropped 63% in 2018. This was clearly a market crash and affected all the stocks, if I was in Steve place I would have bought DQ in 2019 as when the market is down its the right time for institutional investor to jump in and benefit from it.
 
