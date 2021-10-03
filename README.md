@@ -22,13 +22,13 @@ Selection Criteria:
 
 Here are the runtimes before we changed the code or applied the indexes:
 
-![](C:\Users\Fahad.Rehman\OneDrive - State of Wisconsin Investment Board\Desktop\Data BootCamp\Module 2\Resources\orig_2017.PNG)                                          ![](C:\Users\Fahad.Rehman\OneDrive - State of Wisconsin Investment Board\Desktop\Data BootCamp\Module 2\Resources\orig_2018.PNG)
+![2017 runtime(before refactor)](/Resources/orig_2017.PNG)                                          ![2018 runtime(before refactor)](/Resources/orig_2018.PNG)
 
 
 
 After refactoring the code for best practices and introducing the concept of Indexes, the analysis ran in one sixth of the time, as shows below:
 
-![](C:\Users\Fahad.Rehman\OneDrive - State of Wisconsin Investment Board\Desktop\Data BootCamp\Module 2\Resources\VBA_Challenge_2017.PNG)                                                      ![](C:\Users\Fahad.Rehman\OneDrive - State of Wisconsin Investment Board\Desktop\Data BootCamp\Module 2\Resources\VBA_Challenge_2018.PNG)
+![2017 runtime(after refactor)](/Resources/VBA_Challenge_2017.PNG)                                   ![2017 runtime(after refactor)](/Resources/VBA_Challenge_2018.PNG)
 
 We can clearly see the picture above that refactoring did work and enhanced the performance. Other things to take a note of is that initially I was running the code and some other macros in the same VBA file and I didn't see any changes in the runtime infact in some cases the loads ran longer and the runtime were around .934 seconds(with indexing in place). After removing the unwanted macros and only keeping the one, the code ran efficiently
 
@@ -36,7 +36,7 @@ We can clearly see the picture above that refactoring did work and enhanced the 
 
 Lets compare the stock performance from 2017 to 2018:
 
-![](C:\Users\Fahad.Rehman\OneDrive - State of Wisconsin Investment Board\Desktop\Data BootCamp\Module 2\Resources\2017 Stock Performance.PNG)                                     ![](C:\Users\Fahad.Rehman\OneDrive - State of Wisconsin Investment Board\Desktop\Data BootCamp\Module 2\Resources\2018 Stock Performance.PNG) 
+![2017 Stock Performance](/Resources/017 Stock Performance.PNG)                                     ![2018 Stock Performance](/Resources/2018 Stock Performance.PNG) 
 
 The first obvious point is that stocks overall did poor in 2018 as compare to 2017. The stock DQ which was up roughly 200% in 2017, dropped 63% in 2018. This was clearly a market crash and affected all the stocks, if I was in Steve place I would have bought DQ in 2019 as when the market is down its the right time for institutional investor to jump in and benefit from it.
 
